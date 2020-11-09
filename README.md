@@ -31,7 +31,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)\
 ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
