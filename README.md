@@ -37,8 +37,8 @@
 
 <div align="center" display="flex" flex-wrap="wrap">
 <a href="https://github.com/sumitRohilla">
- <img height="180em" width="50%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumitRohilla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumitRohilla&layout=compact&langs_count=8&theme=react"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumitRohilla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumitRohilla&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
 
