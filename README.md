@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, UI / UX Designing, and Full Stack Web Development.\
 ✍️ &nbsp;In my free time, I like listening music or solve Rubix Cube as hobbies/side hustles.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/sumitRohilla/sumitRohilla/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
