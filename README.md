@@ -45,8 +45,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img src="assets/linkedin.svg"/ height="40px"></a>
-  <a href="https://www.instagram.com/sumit.__.rajput/"><img src="assets/instagram.svg"/ height="40px"></a>
-  <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="assets/facebook.svg"/ height="40px"></a>
-  <a href="mailto:sumitrohilla171996@gmail.com"><img src="assets/gmail.svg"/ height="40px"></a>
+  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img src="assets/linkedin.svg"/ width="25px"></a>
+  <a href="https://www.instagram.com/sumit.__.rajput/"><img src="assets/instagram.svg"/ width="25px"></a>
+  <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="assets/facebook.svg"/ width="25px"></a>
+  <a href="mailto:sumitrohilla171996@gmail.com"><img src="assets/gmail.svg"/ width="25px"></a>
 </p>
