@@ -7,9 +7,8 @@
 🎓 &nbsp;I'm currently studying Information Technology at the GL Bajaj Institute of Technology and Management.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, UI / UX Designing, and Full Stack Web Development.\
 ✍️ &nbsp;In my free time, I like listening music or solve Rubix Cube as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at sumitrohilla171996@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/sumitRohilla/ReadmeRepo/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/sumitRohilla/sumitRohilla/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
