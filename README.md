@@ -50,6 +50,7 @@
   <a href="https://www.instagram.com/sumit.__.rajput/"><img src="https://img.icons8.com/material-outlined/48/000000/instagram-new.png"/></a>&nbsp;
   <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="https://img.icons8.com/material-outlined/48/000000/facebook.png"/></a>&nbsp;
   <a href="mailto:sumitrohilla171996@gmail.com"><img src="https://img.icons8.com/material-outlined/48/000000/gmail.png"/></a>
+  <a href="https://sumitrohilla.github.io/colors-game/"><img src="https://img.shields.io/badge/-Game-Link-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 
