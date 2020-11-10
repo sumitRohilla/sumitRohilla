@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and do competitive Programming.\
 🎓 &nbsp;I'm currently studying Information Technology at the GL Bajaj Institute of Technology and Management.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, UI / UX Designing, and Full Stack Web Development.\
-✍️ &nbsp;In my free time, I like listening to music and solving rubik's cube as hobbies/side hustles.
+✍️ &nbsp;In my free time, I like listening to music and solving Rubik's Cube as hobbies/side hustles.
 
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
@@ -46,10 +46,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img width="35px" src="assets/linkedin.svg"/></a>&nbsp;
-  <a href="https://www.instagram.com/sumit.__.rajput/"><img width="35px" src="assets/instagram.svg"/></a>
-  <a href="https://www.facebook.com/sumit.rohilla.370/"><img width="35px" src="assets/facebook.svg"/></a>
-  <a href="mailto:sumitrohilla171996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img margin-right="10px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sumit.__.rajput/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:sumitrohilla171996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 
