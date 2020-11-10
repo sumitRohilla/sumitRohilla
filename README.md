@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and do competitive Programming.\
 🎓 &nbsp;I'm currently studying Information Technology at the GL Bajaj Institute of Technology and Management.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, UI / UX Designing, and Full Stack Web Development.\
-✍️ &nbsp;In my free time, I like listening music or solve Rubix Cube as hobbies/side hustles.
+✍️ &nbsp;In my free time, I like listening to music and solving rubik's cube as hobbies/side hustles.
 
 <img alt="Night Coding" src="assets/Night-Coding.gif" align="right"/>
 
