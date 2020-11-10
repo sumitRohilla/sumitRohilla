@@ -46,10 +46,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img margin-right="10px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/sumit.__.rajput/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;
-  <a href="mailto:sumitrohilla171996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sumit-rohilla-49a2851a0/"><img src="https://img.icons8.com/material-outlined/48/000000/linkedin.png"/></a>&nbsp;
+  <a href="https://www.instagram.com/sumit.__.rajput/"><img src="https://img.icons8.com/material-outlined/48/000000/instagram-new.png"/></a>&nbsp;
+  <a href="https://www.facebook.com/sumit.rohilla.370/"><img src="https://img.icons8.com/material-outlined/48/000000/facebook.png"/></a>&nbsp;
+  <a href="mailto:sumitrohilla171996@gmail.com"><img src="https://img.icons8.com/material-outlined/48/000000/gmail.png"/></a>
 </p>
 
 
