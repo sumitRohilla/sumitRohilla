@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)\
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS)&nbsp;
@@ -25,7 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)\
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)\
