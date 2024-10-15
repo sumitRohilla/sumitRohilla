@@ -13,11 +13,10 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FFA518)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript);\
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;\
 ![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
@@ -26,14 +25,15 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)\
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)\
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)&nbsp;\
 ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
